@@ -1,5 +1,5 @@
 # rExt
-user-friendly c++ library based on root
+User-friendly c++ library based on root
 
 ## Do I need root to use this library?
 Well yes, but actually no. The idea is that if you need to plot something then you need Root.
